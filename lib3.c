@@ -2,7 +2,7 @@
 
 //////////////////////////////////////////////////////
 //
-//   high  school  physic text book project
+//   high  school  physics text book project
 //   verify  Newtone law
 //   2017-08-01
 //  
