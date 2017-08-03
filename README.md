@@ -1,21 +1,23 @@
 # NewtonLaw-test-001
 
 
-# Target:  
-calculate ==> "cal" for short <br>
-To cal Newton Law about real earth R, Mass, gravity to moon .. <br>
+# Target:  <br>
+
+To calculate Newton Law about real earth R, Mass, gravity to moon .. <br>
 check g = 9.8 m/(sec^2) is special case or general case !! <br>
-check man 60 kg who stay on 100m high. his gravity gen how many Kg force .
-check man 60 kg who stay on 5km , 10km , 15 km, 20,km, 30km ..... 100km, ,...500km.. Gravity Gforce..?
-
-Moon 
-
+check man 60 kg who stay on 100m high. his gravity gen how many Kg force .<br>
+check man 60 kg who stay on 5km , 10km , 15 km, 20,km, 30km ..... 100km, ,...500km.. Gravity Gforce..?<br>
+<br><br><br><br>
+Moon <br>
+<br><br><br>
 Sun
+<br><br><br>
 
-  also cal three obj problem, sun moon earth move real position in Orbit of sun system . <br>
-  if have time, cal 9 planets together with real Newtone Law simulation !! <br>
-  if have time, plot 3d graph with real time position (used this simulation compare NASA data ...) <br>
-  if have time, plot all start position with (x,y,z) in this simulation to set STAR CHAR <br>
+STAR CHAR<br>
+  also calculate three obj problem, sun moon earth move real position in Orbit of sun system . <br>
+  calculate 9 planets together with real Newtone Law simulation !! <br>
+  plot 3d graph with real time position (used this simulation compare REAL data ...) <br>
+  plot all start position with (x,y,z) in this simulation to set STAR CHAR <br>
   with sun as coordinates zero point. <br>
   also can transformate to use earth as coordinates zero point, as tradisional STAR CHAR <br>
 
