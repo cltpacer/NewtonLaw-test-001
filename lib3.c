@@ -1,8 +1,8 @@
 
 
-//////javascript:void(0)/////////////////////////////////////////////////
+//////////////////////////////////////////////////////
 //
-//   high  school   project
+//   high  school  physic text book project
 //   verify  Newtone law
 //   2017-08-01
 //  
@@ -17,7 +17,7 @@
 #ifndef    PRJ_NTTEST
 #define    PRJ_NTTEST  1
 
-#define    FILE_NAME_OUT  " \tmp\test_output.txt "
+#define    FILE_NAME_OUT  " /tmp/test_output.txt "
 #ifdef     DEBUG
 #define    aprintf      printf
 #else
