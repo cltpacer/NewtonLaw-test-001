@@ -4,13 +4,25 @@
 # Target:  
 calculate ==> "cal" for short <br>
 To cal Newton Law about real earth R, Mass, gravity to moon .. <br>
-and g = 9.8 m/(sec^2) is special case or general case !! <br>
+check g = 9.8 m/(sec^2) is special case or general case !! <br>
+check man 60 kg who stay on 100m high. his gravity gen how many Kg force .
+check man 60 kg who stay on 5km , 10km , 15 km, 20,km, 30km ..... 100km, ,...500km.. Gravity Gforce..?
+
+Moon 
+
+Sun
+
   also cal three obj problem, sun moon earth move real position in Orbit of sun system . <br>
   if have time, cal 9 planets together with real Newtone Law simulation !! <br>
   if have time, plot 3d graph with real time position (used this simulation compare NASA data ...) <br>
   if have time, plot all start position with (x,y,z) in this simulation to set STAR CHAR <br>
   with sun as coordinates zero point. <br>
-  also can transformation to use earth as coordinates zero point, as tradisional STAR CHAR <br>
+  also can transformate to use earth as coordinates zero point, as tradisional STAR CHAR <br>
+
+<br><br><br><br><br>
+
+
+
 <br>
 G = 6.67*10^(-11)<br>
 <br>
@@ -21,10 +33,10 @@ earth                    mass = .......<br>
 earth to sun distance     1AU = .......<br>
 <br>
 sun mass                      = ......<br>
-
-moon mass                     = ........
-moon distance to earth        = .......
-<br>
+<br><br>
+moon mass                     = ........<br>
+moon distance to earth        = .......<br>
+<br><br><br>
 
 (1) 
 math problem  about integral   <br>
