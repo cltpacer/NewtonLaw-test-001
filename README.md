@@ -62,3 +62,18 @@ G = 6.67*10^(-11)<br>
 # clt david tang
 
 
+
+
+
+
+
+https://www.youtube.com/watch?v=ZqtyQuXo9zM
+
+
+
+
+
+
+
+
+
